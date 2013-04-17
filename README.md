@@ -15,3 +15,6 @@ or
 ```
 mas angry birds
 ```
+
+### US Fork of yisiqi's Alfred App Store Workflow.
+This is a fork of the [Alfred Workflow from yisiqi](https://github.com/yisiqi/alfred2-workflow-appstore) for US users. The only change that has been made is to direct inquiries to the US app store.
